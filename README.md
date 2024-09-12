@@ -23,3 +23,17 @@ Este projeto pode ser aplicado em áreas como consultoria, gestão de documentos
 
 🌐
 Para testar a aplicação, clique no link: https://appialangchain.streamlit.app/
+
+
+📌 Disclaimer sobre Alucinações do Modelo de IA ‼️
+Este projeto utiliza modelos de linguagem avançados da OpenAI, que, apesar de serem altamente sofisticados, podem gerar alucinações – respostas incorretas ou informações inventadas que não constam no documento ou não correspondem à realidade. Isso ocorre porque o modelo funciona com base em previsões probabilísticas e não possui uma compreensão real dos fatos ou da verdade.
+
+Riscos Potenciais:
+Informações Incorretas: O modelo pode gerar respostas que parecem corretas, mas que na verdade estão incorretas, especialmente se o documento não contiver as informações solicitadas ou se a pergunta for ambígua.
+Confiança Excessiva: O modelo pode fornecer respostas com alto grau de confiança, mesmo quando a informação é imprecisa ou inventada.
+Impacto nas Decisões: Decisões empresariais, relatórios ou análises baseadas exclusivamente nas respostas fornecidas pela IA podem ser prejudicadas se houver alucinações nas informações geradas.
+Recomendações de Uso:
+Verifique as Informações: Sempre valide as respostas geradas pelo modelo com fontes confiáveis ou documentos originais antes de tomar decisões importantes.
+Use com Cautela: A ferramenta deve ser utilizada como um suporte complementar e não como a única fonte de verdade, especialmente em áreas críticas como finanças, jurídico, ou análise estratégica.
+Feedback e Ajustes: Para reduzir erros, forneça perguntas específicas e claras ao modelo, e utilize o sistema de feedback para melhorar a acuracidade das respostas ao longo do tempo.
+Este projeto é fornecido "como está", e os usuários são responsáveis por validar qualquer informação gerada pelo sistema antes de utilizá-la em contextos críticos ou empresariais.
